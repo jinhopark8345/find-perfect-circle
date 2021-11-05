@@ -1,6 +1,6 @@
 # find-perfect-circle
 
-![Perfect-circle](/assets/image.jpg)
+![Perfect-circle](/assets/new.jpg)
 ## cpp
 g++  find-perfect-circle.cpp -o circle && ./circle
 ## python
