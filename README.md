@@ -1,6 +1,6 @@
 # find-perfect-circle
 
-![Perfect-circle](/assets/image.jpg){:height="36px" width="36px"}.
+![Perfect-circle]<img src="/assets/image.jpg" width="400" height="400">
 [link-to-image](https://math.stackexchange.com/questions/4289064/generalisation-of-this-circular-arrangement-of-numbers-from-1-to-32-with-two)
 ## cpp
 g++  find-perfect-circle.cpp -o circle && ./circle
